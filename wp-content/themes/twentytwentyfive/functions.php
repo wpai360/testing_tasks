@@ -156,3 +156,4 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 		}
 	}
 endif;
+require_once get_template_directory() . '/inc/projects-setup.php';
